@@ -1,0 +1,87 @@
+a {
+  text-decoration: none !important;
+}
+
+body {
+  zoom: 90%;
+  font-family: "Quicksand", sans-serif;
+}
+
+ul li a {
+  font-family: "Quicksand", sans-serif !important;
+  font-weight: 600 !important;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif !important;
+}
+
+p {
+  font-family: "Quicksand", sans-serif !important;
+}
+
+.bg-gray {
+  background: #eef2f5;
+}
+
+.black {
+  color: #000 !important;
+}
+.card p {
+  color: #000 !important;
+  text-decoration: none;
+}
+
+.projects {
+  padding-top: 2rem;
+}
+
+/*.projects h2{
+padding:20px 0px;
+}*/
+.navbar-bg {
+  background-color: #0a0b4e !important;
+}
+
+.border-none {
+  border: none !important;
+}
+
+.list-group-item {
+  font-family: "Quicksand", sans-serif !important;
+}
+
+a .list-group-item {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+a .list-group-item:hover {
+  color: #f80036 !important;
+  text-decoration: none !important;
+}
+
+.about {
+  padding: 50px 50px;
+}
+
+.about h2 {
+  padding-bottom: 20px !important;
+  /*border:1px solid;*/
+}
+
+.btn.btn-bb {
+  background-color: #0a0b4e !important;
+}
+
+.btn.btn-purple {
+  background: #f80036 !important;
+}
+
+.white {
+  color: #fff;
+}
+
+.radius-0 {
+  border-radius: none;
+}

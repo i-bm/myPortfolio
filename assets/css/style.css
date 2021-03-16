@@ -1,0 +1,35 @@
+/*@import url('');*/
+@import url("custom.css");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Quicksand:wght@300;400;500;600;700&display=swap");
+@import url("//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css");
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
+
+.font-weight-500 {
+  font-weight: 500;
+}
+
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.btn-bb {
+  background-color: #0a0b4e !important;
+}
+.btn-bb:hover {
+  background-color: #1114a3 !important;
+  color: #fff;
+}
+.btn-purple {
+  background: #f80036 !important;
+}
+.btn-purple:hover {
+  background: #e00232 !important;
+  color: #fff;
+}
+.white {
+  color: #fff;
+}
+.radius-0 {
+  border-radius: 0px !important;
+}
